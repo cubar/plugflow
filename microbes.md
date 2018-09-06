@@ -13,5 +13,4 @@ Groups of microbes:
 links:
 
 - https://filearchive.tamera.org/PDF/biogas_digester.pdf
-- http://www.bio-toilet.org/what-is-a-bio-digester/
 - https://en.wikipedia.org/wiki/Anaerobic_digestion
